@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Rodrigo Machado Gonçalves  
 
+## 📫 Let's Connect
+
+- 💌 Email: romachado@outlook.com.br
+
+
 🚀 **Computer Engineering Student** @ PUC/RS | 3rd Semester  
 🌱 Currently learning **C/C++,VHDL, etc...**  
 
@@ -12,7 +17,6 @@ I'm a **Computer Engineering student** passionate about **technology** and embed
 - 💻 **Software Development in C/C++**: Experience in developing software applications using C/C++.
 - 🔧 **Digital Design with SystemVerilog and VHDL**: Knowledge in developing and simulating digital circuits for FPGAs and ASICs.
 
-- 
 ## 🚀 Technologies I Use
 
 ### 🧠 Programming Languages  
@@ -31,3 +35,14 @@ I'm a **Computer Engineering student** passionate about **technology** and embed
 ![ModelSim](https://img.shields.io/badge/ModelSim-003366?style=for-the-badge&logo=intel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📂 Featured Projects
+| 🔢 **Bulls and Cows (FPGA)** | Game logic implemented in SystemVerilog, fully synthesizable for FPGA. | SystemVerilog, Vivado |
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
