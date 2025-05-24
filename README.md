@@ -1,12 +1,14 @@
 # Hi there 👋, I'm Rodrigo Machado Gonçalves  
 
+🚀 **Computer Engineering Student** @ PUC/RS | 3rd Semester  
+🌱 Currently learning **C/C++,VHDL, etc...**  
+
 ## 📫 Let's Connect
 
 - 💌 Email: rmgoncalves06@gmail.com
 
 
-🚀 **Computer Engineering Student** @ PUC/RS | 3rd Semester  
-🌱 Currently learning **C/C++,VHDL, etc...**  
+
 
 
 ## 👋 About Me
