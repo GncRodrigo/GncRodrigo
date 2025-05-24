@@ -39,7 +39,7 @@ I'm a **Computer Engineering student** passionate about **technology** and embed
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📂 Featured Projects
-- 🔢 [**Bulls and Cows (FPGA)**](https://github.com/seu-usuario/BullsAndCows-FPGA)  
+- 🔢 [**Bulls and Cows (FPGA)**](https://github.com/gustavgallo/Bulls-Cows-SD)  
   Game logic implemented in SystemVerilog, fully synthesizable for FPGA.  
   _Tech:_ SystemVerilog, Vivado
 
