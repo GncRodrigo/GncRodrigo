@@ -15,7 +15,7 @@
 
 I'm a **Computer Engineering student** passionate about **technology** and embedded systems. My focus areas include:
 
-- ⚡ **Arduino/ESP32**: Building IoT devices, automation systems, and robotics prototypes.  
+- ⚡ **Arduino**: Building IoT devices, automation systems, and robotics prototypes.  
 - 💻 **Software Development in C/C++**: Experience in developing software applications using C/C++.
 - 🔧 **Digital Design with SystemVerilog and VHDL**: Knowledge in developing and simulating digital circuits for FPGAs and ASICs.
 
