@@ -2,7 +2,7 @@
 
 ## 📫 Let's Connect
 
-- 💌 Email: romachado@outlook.com.br
+- 💌 Email: rmgoncalves06@gmail.com
 
 
 🚀 **Computer Engineering Student** @ PUC/RS | 3rd Semester  
