@@ -39,11 +39,14 @@ I'm a **Computer Engineering student** passionate about **technology** and embed
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📂 Featured Projects
-- 🔢 [**Bulls and Cows (FPGA)**](https://github.com/gustavgallo/Bulls-Cows-SD)  
+- 🎮 [**Bulls and Cows (FPGA)**](https://github.com/gustavgallo/Bulls-Cows-SD)  
   Game logic implemented in SystemVerilog, fully synthesizable for FPGA.  
   _Tech:_ SystemVerilog, Vivado
 - ⏰ [**Multiple Clocks in VHDL**](https://github.com/gustavgallo/MultipleClock-T3.git)  
    Using multiple clocks implemented in SystemVerilog, using ModelSim to view the simulation waveforms .  
+  _Tech:_ SystemVerilog, ModelSim
+- 🔢 [**Custom IEEE 754**](https://github.com/GncRodrigo/Aritimtica_de_Pontos_Flutuantes)  
+   Using system verilog to make a FPU to add or subtract an custom ieee 754.  
   _Tech:_ SystemVerilog, ModelSim
 
 
