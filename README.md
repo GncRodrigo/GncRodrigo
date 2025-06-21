@@ -45,8 +45,7 @@ I'm a **Computer Engineering student** passionate about **technology** and embed
 - ⏰ [**Multiple Clocks in VHDL**](https://github.com/gustavgallo/MultipleClock-T3.git)  
    Using multiple clocks implemented in SystemVerilog, using ModelSim to view the simulation waveforms .  
   _Tech:_ SystemVerilog, ModelSim
-- 🔢 [**Custom IEEE 754**](https://github.com/GncRodrigo/Aritimtica_de_Pontos_Flutuantes)  
-   Using system verilog to make a FPU to add or subtract an custom ieee 754.  
-  _Tech:_ SystemVerilog, ModelSim
-
+-🔢 Floating Point Arithmetic
+  Custom IEEE 754 floating-point unit (FPU) implemented in SystemVerilog to perform addition and subtraction.
+  _Tech_: SystemVerilog, ModelSim
 
