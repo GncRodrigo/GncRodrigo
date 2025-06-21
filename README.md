@@ -42,10 +42,12 @@ I'm a **Computer Engineering student** passionate about **technology** and embed
 - 🎮 [**Bulls and Cows (FPGA)**](https://github.com/gustavgallo/Bulls-Cows-SD)  
   Game logic implemented in SystemVerilog, fully synthesizable for FPGA.  
   _Tech:_ SystemVerilog, Vivado
+  
 - ⏰ [**Multiple Clocks in VHDL**](https://github.com/gustavgallo/MultipleClock-T3.git)  
    Using multiple clocks implemented in SystemVerilog, using ModelSim to view the simulation waveforms .  
   _Tech:_ SystemVerilog, ModelSim
--🔢 Floating Point Arithmetic
-  Custom IEEE 754 floating-point unit (FPU) implemented in SystemVerilog to perform addition and subtraction.
+  
+- 🔢 [**Floating Point Arithmetic**](https://github.com/GncRodrigo/Aritimtica_de_Pontos_Flutuantes)
+    Custom IEEE 754 floating-point unit (FPU) implemented in SystemVerilog to perform addition and subtraction.
   _Tech_: SystemVerilog, ModelSim
 
